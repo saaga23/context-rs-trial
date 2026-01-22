@@ -84,7 +84,7 @@ cargo run -- --map
 
 ---
 
-(`![Context map](./assets/map.png)` )
+![Context map](./assets/map.png)
 ## 📦 Installation
 
 Clone the repository:
@@ -103,8 +103,8 @@ cargo run -- --smart
 ```
 
 ---
-(`![Context Dashboard](./assets/context_html1.png)` )
-(`![Context Dashboard](./assets/context_html2.png)` )
+![Context Dashboard](./assets/context_html1.png)
+![Context Dashboard](./assets/context_html2.png)
 
 ## 🏆 Project Note
 
