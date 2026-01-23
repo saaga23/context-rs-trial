@@ -104,3 +104,6 @@ cargo run -- --smart
 
 Built for the **Rust Africa Hackathon 2026**.  
 Focus area: **AI and Developer Tools**.
+
+#RustAfricaHackathon
+![Hackathon](https://img.shields.io/badge/Event-RustAfricaHackathon-orange)
