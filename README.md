@@ -14,8 +14,7 @@ The tool parses your AST to visualize exactly how your files connect.
 
 ### 2. The Optimized Payload (Clipboard Ready)
 It generates a token-optimized XML packet with system instructions, ready to paste into ChatGPT/Claude.
-![Dependency Graph](./assets/context_html1.png)
-
+![XML Payload](./assets/context_html2.png)
 
 ---
 
@@ -60,7 +59,6 @@ This runs the smart analysis, generates the dashboard, and copies the XML payloa
 
 ```bash
 cargo run -- --smart
-
 Map Mode (Structure Only)
 If you just want to see the file tree in your terminal without copying content:
 
@@ -78,3 +76,8 @@ Run directly with Cargo:
 
 Bash
 cargo run -- --smart
+🏆 Project Note
+Built for the Rust Africa Hackathon 2026. Focus area: AI and Developer Tools
+
+
+**Check it one last time on GitHub.** If you see the Graph at the top, the XML at the bottom, and the Map in the middle... **YOU HAVE WON.** 🏆
